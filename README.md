@@ -1,2 +1,2 @@
 # Neuron
-My first neural network called perceptro using python
+My first neural network using python
